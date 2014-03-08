@@ -45,6 +45,8 @@ brew cask install spectacle
 brew cask install the-unarchiver
 brew cask install flux
 brew cask install sublime-text3
-brew cask install vmware-fusion
+# brew cask install vagrant
+brew cask install virtualbox
+# brew cask install vmware-fusion
 
 exit 0
