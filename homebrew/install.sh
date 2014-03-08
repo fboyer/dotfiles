@@ -41,6 +41,7 @@ brew cask install evernote
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install kindle
+brew cask install lastpass-universal
 brew cask install spectacle
 brew cask install the-unarchiver
 brew cask install flux
