@@ -13,7 +13,6 @@ then
 fi
 
 # Make sure we have updated the formulas
-brew update
 brew upgrade
 
 # Install homebrew packages
