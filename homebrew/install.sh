@@ -12,9 +12,6 @@ then
   ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)" > /tmp/homebrew-install.log
 fi
 
-# Make sure we have updated the formulas
-brew upgrade
-
 # Install homebrew packages
 brew install grc 
 brew install bazaar 
