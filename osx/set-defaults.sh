@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# ~/.osx — Based on http://mths.be/osx
+# ~/.osx — Based on http://mths.be/osx and Zack Holman's osx script
 
 # Ask for the administrator password upfront
 sudo -v
